@@ -1,0 +1,14 @@
+"title-VC" = "Map demo";
+"button-loc" = "Create route";
+"route-allert-loc" = "Enter destination coordinates";
+"cancel" = "Cancel";
+"latitude-loc" = "  Enter latitude";
+"longitude-loc" = "  Enter longitude";
+"create" = "Create";
+"destination" = "Destination";
+"my-destination" = "My destination";
+"error-impossible" = "Location cannot be determined";
+"error-not_requested" = "Location not requested";
+"ok" = "OK";
+"info" = "Info";
+"info-text" = "1. Hold tap on map to make route \n2. To build route to destination by coordinates, tap Create route button";
